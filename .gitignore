@@ -20,3 +20,15 @@ backend/logs/
 
 # Python
 __pycache__/
+
+# --- agregado por SUBIR-TODO-A-GIT.ps1 ---
+!.env.example
+backend/.env
+infra/.env
+*.bak
+target/
+node_modules/
+dist/
+.angular/
+.idea/
+*.iml
